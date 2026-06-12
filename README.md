@@ -40,7 +40,7 @@ Expense-Tracker-Python/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/VaishnaviEllenki/DecodeLabs-Task2-VaishnaviEllenki.git
+git clone https://github.com/VaishnaviEllenki/DecodeLabs-Task2-VaishnaviEllenki
           
 ```
 
